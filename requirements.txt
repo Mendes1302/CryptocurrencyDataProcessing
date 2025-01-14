@@ -1,0 +1,7 @@
+typing_extensions==4.12.2
+beautifulsoup4==4.11.1
+python-dotenv==1.0.0
+requests==2.32.3
+selenium==4.27.1
+sqlite3==3.37.2
+pandas==1.5.2
