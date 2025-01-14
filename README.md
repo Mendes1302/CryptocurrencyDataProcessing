@@ -82,10 +82,6 @@ If you want to contribute to this project, feel free to fork the repository, mak
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Adding a Link to the Dashboard
-
-You can include a section in your `README.md` like this to provide the link to the dashboard:
-
 ### Dashboard Access
 
 Access the project dashboard to explore and analyze cryptocurrency data:  
