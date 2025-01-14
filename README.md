@@ -41,7 +41,7 @@ To get started with the project, you need to set up the environment and dependen
    pip install -r requirements.txt
    ```
 
-3. To use ChromeDriver for web scraping, download it from the [official ChromeDriver site](https://sites.google.com/chromium.org/driver/), ensuring the version matches your Google Chrome browser. Extract the file and place the `chromedriver` executable in the `chromedriver/` directory of this project. Alternatively, you can add its path to your system's PATH environment variable for global access. Verify the installation by running `chromedriver --version` in your terminal.
+3. To use ChromeDriver for web scraping, download it from the official [ChromeDriver site](https://sites.google.com/chromium.org/driver/), ensuring the version matches your Google Chrome browser. Extract the file and place the `chromedriver` executable in the `chromedriver/` directory of this project. Alternatively, you can add its path to your system's PATH environment variable for global access. Verify the installation by running `chromedriver --version` in your terminal.
 
 ### Running the Project
 
@@ -84,5 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Dashboard Access
 
-Access the project dashboard to explore and analyze cryptocurrency data:  
-[**Project Dashboard**]([http://your-dashboard-link.com](https://lookerstudio.google.com/reporting/da3719f4-ef0c-41bf-a663-cb1286ef83d7))
+Access the project dashboard to explore and analyze cryptocurrency data: 
+[Project Dashboard](https://lookerstudio.google.com/reporting/da3719f4-ef0c-41bf-a663-cb1286ef83d7)
