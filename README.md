@@ -2,6 +2,11 @@
 
 This project processes cryptocurrency data, providing functionality to manage and query data from multiple sources, including a SQLite database and CSV files. It includes modules for retrieving cryptocurrency info, news, and storing historical prices.
 
+## Table Schema
+
+The diagram below represents the schema of the tables used in this project:
+
+![Table Schema](img/schema_tables.png)
 ## Project Structure
 
 ```plaintext
