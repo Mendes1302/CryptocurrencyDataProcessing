@@ -87,7 +87,8 @@ If you want to contribute to this project, feel free to fork the repository, mak
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Dashboard Access
+### Dashboard and Presentation Access
 
 Access the project dashboard to explore and analyze cryptocurrency data: 
-[Project Dashboard](https://lookerstudio.google.com/reporting/da3719f4-ef0c-41bf-a663-cb1286ef83d7)
+[Project Dashboard](https://lookerstudio.google.com/reporting/da3719f4-ef0c-41bf-a663-cb1286ef83d7) e apresentation [Presentation Canvas](https://www.canva.com/design/DAGcXmOiclk/VcCVU7a12oESaIPjizwJbQ/edit?utm_content=DAGcXmOiclk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
