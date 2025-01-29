@@ -37,8 +37,8 @@ To get started with the project, you need to set up the environment and dependen
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/CaseCadastra.git
-   cd CaseCadastra
+   git clone https://github.com/yourusername/CryptocurrencyDataProcessing.git
+   cd CryptocurrencyDataProcessing
    ```
 
 2. Install the required dependencies:
